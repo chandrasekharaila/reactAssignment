@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "category":"Category One",
+        "widgets": []
+    },
+    {
+        "id": "3",
+        "category":"Category Two",
+        "widgets": []
+    },
+    {
+        "id": "4",
+        "category":"Category Three",
+        "widgets": []
+    }
+]
